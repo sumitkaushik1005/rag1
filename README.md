@@ -1,4 +1,5 @@
-# RAG-KUBERNATES
+# RAG application
+
 
 A lightweight Retrieval Augmented Generation (RAG) API built with FastAPI. It loads a PDF, chunks it, embeds with HuggingFace embeddings, stores vectors in FAISS, and answers questions using Groq LLMs.
 
